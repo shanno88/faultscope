@@ -74,7 +74,7 @@ Then open in a browser and check: https://faultscope.cn (English), https://fault
 |---|---|
 | Live site over HTTPS | After step 3 |
 | Product description on the site | `index.html` hero + "How it works" |
-| Pricing visible | `index.html` + `zh.html` pricing section (¥9,800 / ¥2,000 yr, CNY) |
+| Pricing visible | `index.html` + `zh.html` pricing section (¥2,000/yr software subscription, CNY; hardware + install arranged separately, not sold online) |
 | Terms of Service linked from navigation/footer | `terms.html`, linked on every page |
 | Refund Policy linked from navigation/footer | `refund.html`, linked on every page; 30-day window |
 | Privacy Policy linked from navigation/footer | `privacy.html`, linked on every page |
